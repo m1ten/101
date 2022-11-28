@@ -173,3 +173,5 @@ A project is an innovation when solved and a success when completed. This is mad
 [^1]: This repository is licensed under the [Apache-2.0](LICENSE) license. 
 [^2]: Albert Einstein was proven wrong just two decades later in the 1950s. 
 [^3]: This refers to OpenAI and more specifically Github's Copilot.
+
+If the website is not rendering properly, please visit [RENDER.md](https://m1ten.github.io/101/RENDER.md/).
