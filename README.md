@@ -56,7 +56,9 @@ A few years ago I made a game. This game was probably made in 5 minutes and I re
 
 ![clicker](/images/clicker.png)
 
-This is not the most professional thing I have created but I want to keep things authentic. It works, you can try it on [itch.io](https://miten.itch.io/clicker). The source for the script is [here](/scripts/clicker.cs).
+This is not the most professional thing I have created but I want to keep things authentic. It works, you can try it on [itch.io](https://miten.itch.io/clicker). 
+
+https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scripts/clicker.cs#L1-L108
 
 I am going to be honest. Ever since I created this game, I have not worked on a game project. I worked on other things and currently I am working on a cross platform package manager written in `rust` that utilizes `lua` scripts. Based on this, it is not hard to assume that I have minimal interest in game development.
 
@@ -66,7 +68,9 @@ I did work on some pixel art and this is one of those art pieces (very unorigina
 
 #### Rock Paper Scissors
 
-I wrote a script to figure out the probability of me winning a game of rock-paper-scissors. Available [here](/scripts/rps.py). Spoiler alert, ||I have a 33% chance of winning.|| That brings me on to my next point.
+I wrote a script to figure out the probability of me winning a game of rock-paper-scissors. Spoiler alert, ||I have a 33% chance of winning.|| That brings me on to my next point.
+
+https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scripts/rps.py#L1-L41
 
 ### How accurate is this data?
 
@@ -80,11 +84,15 @@ I really like doing research and questioning things even though most of the time
 
 My point proven. This is where my interest lies at least for now and I want to see AI improve in the future. 
 
-Speaking of the AI, here's *Conway's Game of Life* "written" by GitHub's Copilot using OpenAI. Considering the AI has thus far copied from other developers, this game was probably written by someone else to be honest. Probably not fully but the AI did copy individual lines of code based on similar projects. The source code is available at [ai-game](scripts/ai-game.py). If the AI did manage to write this game, it's pretty impressive and it innovated.
+Speaking of the AI, here's *Conway's Game of Life* "written" by GitHub's Copilot using OpenAI. Considering the AI has thus far copied from other developers, this game was probably written by someone else to be honest. Probably not fully but the AI did copy individual lines of code based on similar projects. If the AI did manage to write this game, it's pretty impressive and it innovated.
+
+https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scripts/ai-game.py#L1-L127
 
 <img src="/images/ai-game.png" alt="ai-game" width="250"/>
 
-I had the AI write *Conway's Game of Life* again but this time in `C` and it gave a different kind of result. The source code for that is available at [ai-game.c](scripts/ai-game.c) and the executable is available at [ai-game.exe](bin/ai-game.exe).
+I had the AI write *Conway's Game of Life* again but this time in `C` and it gave a different kind of result. The executable for the game is available at [ai-game.exe](bin/ai-game.exe).
+
+https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scripts/ai-game.c#L1-L99
 
 <img src="/images/ai-game-c.png" alt="ai-game" width="250"/> 
 
