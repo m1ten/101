@@ -68,7 +68,15 @@ I did work on some pixel art and this is one of those art pieces (very unorigina
 
 #### Rock Paper Scissors
 
-I wrote a script to figure out the probability of me winning a game of rock-paper-scissors. Spoiler alert, ||I have a 33% chance of winning.|| That brings me on to my next point.
+I wrote a script to figure out the probability of me winning a game of rock-paper-scissors. 
+
+<details><summary>Spoiler Alert</summary>
+<p>
+I have a 33% chance of winning. You can probably figure out why that is.
+</p>
+</details>
+
+ That brings me on to my next point.
 
 https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scripts/rps.py#L1-L41
 
