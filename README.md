@@ -174,4 +174,4 @@ A project is an innovation when solved and a success when completed. This is mad
 [^2]: Albert Einstein was proven wrong just two decades later in the 1950s. 
 [^3]: This refers to OpenAI and more specifically Github's Copilot.
 
-If the website is not rendering properly, please visit [RENDER.md](https://m1ten.github.io/101/RENDER.md/).
+If the website is not rendering properly, please check out the github [repository](https://github.com/m1ten/101) or visit [index.md](./index.md) for a `jekyll` supported version.
