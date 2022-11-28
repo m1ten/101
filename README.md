@@ -1,6 +1,6 @@
-## A collection of information and beyond
+## A collection of information and beyond 101[^1]
 
-> "There is not the slightest indication that nuclear energy will ever be obtainable. It would mean that the atom would have to be shattered at will."[^1] 
+> "There is not the slightest indication that nuclear energy will ever be obtainable. It would mean that the atom would have to be shattered at will."[^2] 
 \- Albert Einstein, 1932
 
 ### Innovators  
@@ -84,7 +84,7 @@ https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scrip
 
 The data is very accurate if we discuss basic math but becomes very inaccurate when we include the complex possibilities in the real world. Also the inaccuracy in the `python` functions. 
 
-#### Artificial Intelligence[^2]
+#### Artificial Intelligence[^3]
 
 I really like doing research and questioning things even though most of the time I am not sure what I am doing. Research can also be boring and that's where Artificial Intelligence comes in, because it's a lot of "borrowing." I said "borrowing," because the current AI only knows how to steal from independent researchers/developers and does not even follow the license. 
 
@@ -170,5 +170,6 @@ This is an oversimplified plan for the future and I am sure it will change as I 
 ### Conclusion
 A project is an innovation when solved and a success when completed. This is made possible by an engineer from all the across the globe. 
 
-[^1]: Albert Einstein was proven wrong just two decades later in the 1950s. 
-[^2]: This refers to OpenAI and more specifically Github's Copilot.
+[^1]: This repository is licensed under the [Apache-2.0](LICENSE) license. 
+[^2]: Albert Einstein was proven wrong just two decades later in the 1950s. 
+[^3]: This refers to OpenAI and more specifically Github's Copilot.
