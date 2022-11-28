@@ -7,7 +7,7 @@
 
 Here's the code for a model to generate a graph showing the number of engineers vs the number of innovations.
 
-https://github.com/m1ten/101/blob/a89d6b6f37b1c668e016d44bd174bd4c0aaeb106/scripts/model.py#L1-L3
+https://github.com/m1ten/101/blob/a89d6b6f37b1c668e016d44bd174bd4c0aaeb106/scripts/model.py#L1-L33
 
 When I plugged in the numbers (1000 engineers and 10% rate of innovation), I got the following results:
 
