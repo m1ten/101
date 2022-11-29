@@ -21,7 +21,7 @@ Innovators:  10.100000000000001 %
 Innovators (based on distribution curve):  10.0131 %
 ```
 
-<img src="/images/innovations.png" alt="innovations" width="400"/>
+<img src="/assets/innovations.png" alt="innovations" width="400"/>
 
 The results are pretty close to what I expected. Of course in the real world, the rate of innovation is not constant but this gives a general idea that not every engineer is an innovator. That fact alone is not a bad thing, there is lot to consider when it comes to innovation and making a model to predict it is not easy. 
 
@@ -31,7 +31,7 @@ After knowing that, why should I become an engineer? I want to be an engineer be
 
 To prove my point, here's another plot.
 
-<img src="/images/one-egr.png" alt="one-egr" width="400"/>
+<img src="/assets/one-egr.png" alt="one-egr" width="400"/>
 
 Based on the same rate of `0.1` or `10%`, a single engineer will fail to innovate `90%` of the time. Which is easy enough to calculate but what is often forgotten is there are still `10` successes out of a `100` runs. Those `10` successes are the reason why I am writing this post on a computer and not on a typewriter. Those `10` successes are the reason why we have a lot of things we take for granted. 
 
@@ -41,11 +41,11 @@ As I showed in the first plot, the number of innovations exponentially increases
 
 According to AI, it's the following.
 
-![image](/images/define-innovation-AI.png)
+![define-innovation-AI](/assets/define-innovation-AI.png)
 
 Then it goes saying why that definition is, to say the least, "dumb."
 
-![image](/images/dumb-ai.png)
+![dumb-ai](/assets/dumb-ai.png)
 
 I agree with it for the most part. If you can solve a problem, you innovated (or evolved) from a previous state. Every engineer is an innovator because they solve problems which basically means this disproves the rate of innovation model I made. I innovated in 10 minutes, I'm an innovator (or maybe not).
 
@@ -55,7 +55,7 @@ The point is anyone can be an engineer and that involves me; though, I don't thi
 
 A few years ago I made a game. This game was probably made in 5 minutes and I remember I wanted to learn the Godot Engine. Here's a picture of the game. 
 
-![clicker](/images/clicker.png)
+![clicker](/assets/clicker.png)
 
 This is not the most professional thing I have created but I want to keep things authentic. It works, you can try it on [itch.io](https://miten.itch.io/clicker). 
 
@@ -65,7 +65,7 @@ I am going to be honest. Ever since I created this game, I have not worked on a 
 
 I did work on some pixel art and this is one of those art pieces (very unoriginal).
 
-![billy](/images/billy.png)
+![billy](/assets/billy.png)
 
 #### What does this have to do innovation?
 
@@ -93,7 +93,7 @@ The data is very accurate if we discuss basic math but becomes very inaccurate w
 
 I really like doing research and questioning things even though most of the time I am not sure what I am doing. Research can also be boring and that's where artificial intelligence comes in, because it's a lot of "borrowing." I said "borrowing," because the current AI only knows how to steal from independent researchers/developers and doesn't even follow the license. 
 
-![ai-stealing](/images/ai-copy.png)
+![ai-stealing](/assets/ai-copy.png)
 
 My point proven. This is where my interest lies at least for now and I want to see AI improve in the future. 
 
@@ -101,13 +101,13 @@ Speaking of the AI, here's *Conway's Game of Life* "written" by GitHub's Copilot
 
 https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scripts/ai-game.py#L1-L127
 
-<img src="/images/ai-game.png" alt="ai-game" width="250"/>
+<img src="/assets/ai-game.png" alt="ai-game" width="250"/>
 
 I had the AI write *Conway's Game of Life* again but this time in `C` and it gave a different kind of result. The executable for the game is available at [ai-game.exe](bin/ai-game.exe).
 
 https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scripts/ai-game.c#L1-L99
 
-<img src="/images/ai-game-c.png" alt="ai-game" width="250"/> 
+<img src="/assets/ai-game-c.png" alt="ai-game" width="250"/> 
 
 These are just asterisks. The AI is clearly not perfect but it's a start. There is a lot of improvements to be done and I could be the one to improve it in the future.
 
@@ -115,11 +115,11 @@ These are just asterisks. The AI is clearly not perfect but it's a start. There 
 
 Since I have relied on AI thus far, let's ask the AI to define success.
 
-![ai-success](/images/ai-success.png)
+![ai-success](/assets/ai-success.png)
 
 Ok, maybe not. This was a really bad idea. Well, at least I tried and it knew what I was trying to do so that's a success.  
 
-![ai-define-success](/images/ai-define-success.png)
+![ai-define-success](/assets/ai-define-success.png)
 
 Sure, we will go with that. But on a serious note, success is anything that bring progress. Me writing the last sentence is a success and so is me writing this sentence. Going back to the topic of innovation, that's a success and the innovators are successful. 
 
