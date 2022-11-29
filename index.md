@@ -1,1 +1,0 @@
-Please visit the github [repository](https://github.com/m1ten/101) for the actual website. This is because the web is fragmented and there are several ways to render markdown (and jekyll). 
