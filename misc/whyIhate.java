@@ -22,7 +22,7 @@ public class whyIhate {
             System.out.println(reason);
         }
 
-        List<String> reasonThree = Stream.of("This is another reason why I hate java", "idk why I am doing this", "it's really not fun").collect(Collectors.toList());
+        List<String> reasonThree = Stream.of("This is another reason why I hate java", "I don't know why I am doing this", "it's really not fun").collect(Collectors.toList());
 
         while (reasonThree.size() > 0) {
             System.out.println(reasonThree.remove(0));
@@ -40,8 +40,5 @@ public class whyIhate {
 
 /* on a serious note, I don't even know Java. 
    well I do only like jre 8 because it's so old and most used (probably)
-   or it might jre 11 or 16 because they are newer.
+   or it might be jre 11 or 16 because they are newer.
 */
-
-
-

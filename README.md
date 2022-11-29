@@ -67,6 +67,8 @@ I did work on some pixel art and this is one of those art pieces (very unorigina
 
 ![billy](/assets/billy.png)
 
+This is Billy, he was supposed to be a character for testing purposes in my 2D RPG but I never managed to finish the game because I ran out of time. My idea was making a game similar to Rimworld with realistic NPC AI because that would be interesting to play. 
+
 #### What does this have to do innovation?
 
 Nothing and everything. Nothing because I have done nothing special but everything because it is me who has done the something. To put in simple terms, I have innovated by creating something that did not exist before but that does not necessarily have to be something useful or even good.
@@ -87,17 +89,21 @@ https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scrip
 
 ### How accurate is this data?
 
-The data is very accurate if we discuss basic math but becomes very inaccurate when we include the complex possibilities in the real world. Also the inaccuracy in the `python` functions come into play as the margin of error increases negligibly every iteration. I try to use the Monte Carlo method whenever possible but that is not always possible and there is always differences between the theoretical and the real world. Artificial intelligence can help increase the accuracy and relate the data to the real world.
+The data is very accurate if we discuss basic math but becomes very inaccurate when we include the complex possibilities in the real world. Also the inaccuracy in the `python` functions come into play as the margin of error increases negligibly every iteration. I try to use the Monte Carlo method whenever possible and there is always differences between the theoretical and the real world.
 
 #### Artificial Intelligence[^3]
 
-I really like doing research and questioning things even though most of the time I am not sure what I am doing. Research can also be boring and that's where artificial intelligence comes in, because it's a lot of "borrowing." I said "borrowing," because the current AI only knows how to steal from independent researchers/developers and doesn't even follow the license. 
+I really like doing research and questioning things even though most of the time I am not sure what I am doing. Research can also be boring and that's where artificial intelligence comes in, because it's a lot of borrowing and training. I said "borrowing," because the current AI only knows how to steal from independent researchers/developers and doesn't even follow the license as far as the code side of the story is concerned. Most people think that AI is some computer that does human-like things but that's not the case. Neural networks are math functions that are trained to do a specific task, by trained I mean finding patterns in data. 
+
+Self-driving cars are very similar to cars in games driven by NPCs, so think about that next time you sit in a self-driving car. The major difference is in games the data is given but in real life, the data is collected. That is the most important part of machine learning, the data. There has to be minimal chance of error when collecting and using the data because otherwise there is a possibility of a crash.
+
+AI is not magic, it needs data to predict the possibilities and it will copy if there is not enough data to make a decision. 
 
 ![ai-stealing](/assets/ai-copy.png)
 
 My point proven. This is where my interest lies at least for now and I want to see AI improve in the future. 
 
-Speaking of the AI, here's *Conway's Game of Life* "written" by GitHub's Copilot using OpenAI. Considering the AI has thus far copied from other developers, this game was probably written by someone else to be honest. Probably not fully but the AI did copy individual lines of code from similar projects or modified it to fit the given topic. If the AI did manage to write this game, it's pretty impressive and it innovated.
+Speaking of AI, here's *Conway's Game of Life* "written" by GitHub's Copilot using OpenAI. Considering the AI has thus far copied from other developers, this game was probably written by someone else to be honest. Probably not fully but the AI did copy individual lines of code from similar projects or modified it to fit the given topic. If the AI did manage to write this game independentally, it's pretty impressive and it innovated.
 
 https://github.com/m1ten/101/blob/7a4a6772fe2337666156bea80b523b4cd377f808/scripts/ai-game.py#L1-L127
 
@@ -145,13 +151,13 @@ graph TD;
     Failure-->Job/Research;
 ```
 
-This diagram explains it all. In the end, there is a cycle of success and failure. This is because there is always a learning opportunity and some people might be only there for money. An interconnected web of possibilities.
+This diagram explains it all. In the end, there is a cycle of success and failure. This is because there is always a learning opportunity and some people might only be there for money. An interconnected web of possibilities.
 
 ```mermaid
 graph TD;
     X-->Success;
 ```
-A diagram that, like the one above, is the perfect example of failure because nothing is guaranteed to be successful and without failure, there is no success.
+A diagram that, like the one above, is not showing the true scenario because nothing is guaranteed to be successful and without failure, there is no success.
 
 #### Future
 
@@ -170,7 +176,7 @@ graph TD;
     family-->retirement;
 ```
 
-This is an oversimplified plan for the future and I am sure it will change as I get closer to the events.
+This is an oversimplified plan for the future and I am sure it will change as I get closer to the events. As I get closer to becoming a real software engineer, there is a part of me that really thinks all of this is just a life simulator. That was my original idea for this project, making a life simulator, but turns out that takes time (even if I hard code everything), there is still a lot of possibilities in life. Although the game would have been fun and I could try to release it by the end of this year (2022), I wouldn't have been able to express my thoughts so clearly. 
 
 ### Conclusion
 A project is an innovation when solved and a success when completed. This is made possible by engineers from all the across the globe. 
